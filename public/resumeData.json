@@ -1,0 +1,118 @@
+{
+  "main": {
+    "name":"Rony Shabo",
+    "description":"I am a web development engineer and I use react to develop pages. For back end I use Python",
+    "image":"profilepic.jpg",
+    "bio":"Moved to the US in 2012. Eversince, I pushed myself more just to show my potentials in every field I was in. ",
+    "contactmessage":"For full resume or any further Inquiries please contact me through Email or Linked In",
+    "email": "ronyshabbo@gmail.com",
+    "phone": "614-772-8409",
+    "github":"https://github.com/ray818rony",
+    "LinkedIn":"https://www.linkedin.com/in/rony-shabo-85b78bb0/",
+    "address":{
+      "street":"(1712 Woodward st. Apt 210)",
+      "city":"(Austin)",
+      "state":"(TX)",
+      "zip": "(78741)"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/rony.shaboo.ray818/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/rony-shabo-85b78bb0/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/ray818rony/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ray818rony",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage": "I am a linguist that decided to move to the coding world, bringing new ideas to the table and facing new challenges to solve",
+    "education":[
+      {
+        "school":"Coding Temple",
+        "degree":"Software Engineering",
+        "graduated":"2021",
+        "description": "Developed holistic systems in programming languages, including HTML, CSS, Python, JavaScript, Typescript, Flask, React, and many others. We focused on OOP, UX and UI."
+      },
+      {
+        "school":"University of Aleppo, Syria",
+        "degree":"Agricultural Engineering",
+        "graduated":"06/2012",
+        "description": "My Bachelor degree in Syria was incomplete since I had to flee the country after the Civil war."
+      }
+    ],
+    "work":[
+      {
+        "company":"Coding Temple",
+        "title":"Software Engineer",
+        "years":"May-2021 - July-2021 ",
+        "description": "Exhibited strong technical aptitude and application expertise resulting in optimized performance, continuous improvement recommendations and product innovation."
+      },
+      {
+        "company":"Stratus Video and Language Access Network",
+        "title":"Arabic Medical Interpreter",
+        "years":"November-2016 - May-2021",
+        "description": "Served as medical interpreter for patients and staff clinical encounters by delivering accurate, skilled interpretations to facilitate effective communications."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"75%"
+      },
+      {
+        "name":"HTML",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"65%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"SQL",
+        "level":"65%"
+      },
+      {
+        "name":"Pandas",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Rangers Garage",
+        "category":"Back End",
+        "image":"01.jpg",
+        "url":"https://www.verypossible.com/hubfs/0.0198_python-programming.jpeg"
+      },
+      {
+        "title":"My Health App",
+        "category":"A React based Healthcare website template",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      }
+     
+      
+    ]
+  }
+}
